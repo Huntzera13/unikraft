@@ -1,0 +1,6 @@
+[UNIKRAFT PATCH] lib/ukdebug: Add new trondle calls
+
+Add some new trondle calls to the foobar interface to support
+the new zot feature.
+
+Signed-off-by: Joe Smith <joe.smith@citrix.com>
